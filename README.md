@@ -82,10 +82,32 @@ beyond_code:
 
 ## 📊 By The Numbers
 
+<div align="center">
+
+<!-- 🏆 GitHub Trophies — hosted on github.com, very reliable -->
+<img src="https://github-profile-trophy.vercel.app/?username=Pitou911&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="trophies"/>
+
+</div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Pitou911&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<!-- 📊 Profile Summary Cards — self-hosted via GitHub Actions, reliable -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pitou911&theme=tokyonight" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pitou911&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pitou911&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pitou911&theme=tokyonight" width="32%"/>
+
+</div>
+
+<div align="center">
+
+<!-- 🔥 Streak Stats — demolab is stable and actively maintained -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pitou911&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
