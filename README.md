@@ -84,14 +84,14 @@ beyond_code:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pitou911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitou911&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=Pitou911&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
@@ -163,7 +163,7 @@ beyond_code:
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=Pitou911&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS)
 
 </div>
 
