@@ -82,12 +82,6 @@ beyond_code:
 
 ## 📊 By The Numbers
 
-<div align="center">
-
-<!-- 🏆 GitHub Trophies — hosted on github.com, very reliable -->
-<img src="https://github-profile-trophy.vercel.app/?username=Pitou911&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="trophies"/>
-
-</div>
 
 <div align="center">
 
