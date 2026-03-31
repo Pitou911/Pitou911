@@ -19,7 +19,7 @@
 ```yaml
 name: Song Pitou
 role: IT Specialist & Full Stack Developer
-location: 🌏 Southeast Asia
+location: Phnom Penh, Cambodia
 experience: Backend Systems + Full Stack
 
 backend:
@@ -32,7 +32,7 @@ database:
   - MongoDB           # Flexible, document-based
 
 frontend:
-  - JavaScript / HTML5 / CSS3
+  - JavaScript / HTML5 / CSS3 / ReactJS / TailwindCSS
 
 currently:
   - Mastering clean architecture
