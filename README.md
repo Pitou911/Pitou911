@@ -36,6 +36,7 @@
 ║             Node.js / Express         ║
 ║                                       ║
 ║  DATA     :: MySQL  ·  MongoDB        ║
+║             PostgreSQL                ║
 ║                                       ║
 ║  FRONTEND :: React  ·  Tailwind       ║
 ║             JavaScript  ·  HTML5      ║
@@ -82,6 +83,7 @@
 **[ DATA ]**
 
 ![MySQL](https://img.shields.io/badge/MYSQL-1a1a1a?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![MongoDB](https://img.shields.io/badge/MONGODB-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
 **[ FRONTEND ]**
@@ -123,7 +125,7 @@
                │  ▼
  ╔═════════════▼══════════════════════════════════════════════════╗
  ║  ░░░░░░░░░░░░░░░░░░  DATA LAYER  ░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
- ║        MySQL  [relational]         MongoDB  [document]         ║
+ ║        MySQL  [relational]  ·  PostgreSQL  [relational]  ·  MongoDB  [document]        ║
  ╚════════════════════════════════════════════════════════════════╝
 ```
 
@@ -172,19 +174,17 @@
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
 │   "Any fool can write code a computer understands.              │
-│    Good programmers write code humans can understand."           │
+│    Good programmers write code humans can understand."          │
 │                                                  — M. Fowler    │
-│                                                                  │
-│   "It's not who I am underneath, but what I do that defines me" │
-│                                                  — Bruce Wayne  │
-│                                                                  │
+│                                                                 │
+│                                                                 │
 │   "First, solve the problem. Then, write the code."             │
 │                                                  — J. Johnson   │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
