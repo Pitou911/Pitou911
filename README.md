@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,40:0a0a0a,100:111111&height=220&section=header&text=SONG%20PITOU&fontSize=72&fontColor=00ff88&fontAlignY=45&desc=Backend%20Architect%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20Phnom%20Penh%2C%20Cambodia&descAlignY=68&descSize=15&descColor=888888&stroke=00ff88&strokeWidth=2&animation=blinking" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a0a,70:111111,100:000000&height=280&section=header&text=SONG%20PITOU&fontSize=80&fontColor=c0392b&fontAlignY=45&desc=IT%20Specialist%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20Phnom%20Penh&descAlignY=65&descSize=14&descColor=555555&stroke=c0392b&strokeWidth=2&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -8,55 +8,56 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=→+Building+distributed+systems+that+scale;→+Spring+Boot+%7C+Laravel+%7C+Node.js+%7C+React;→+Clean+architecture+or+go+home;→+Coffee+consumed%3A+∞+%7C+Bugs+remaining%3A+0+%28probably%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=2800&pause=900&color=C0392B&center=true&vCenter=true&width=700&lines=%5BSYS%5D+Backend+systems+initialized+...+OK;%5BSYS%5D+Spring+Boot+%7C+Laravel+%7C+Node.js+%7C+React+...+LOADED;%5BSYS%5D+Clean+architecture+enforced+...+STRICT;%5BSYS%5D+Coffee+dependency+resolved+...+CRITICAL;%5BSYS%5D+Ready+to+build+in+the+dark+...+ALWAYS)](https://git.io/typing-svg)
 
 </div>
 
+<br/>
+
 ---
 
-<table>
+<table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
-## `$ whoami`
-
-```typescript
-const engineer = {
-  name    : "Song Pitou",
-  title   : "IT Specialist & Full Stack Dev",
-  base    : "Phnom Penh, Cambodia 🇰🇭",
-
-  backend : [
-    "Java + Spring Boot",   // Microservices, REST
-    "Laravel (PHP)",        // MVC, Eloquent ORM
-    "Node.js / Express",    // Async, event-driven
-  ],
-
-  data    : ["MySQL", "MongoDB"],
-
-  frontend: ["React", "JavaScript", "Tailwind"],
-
-  mindset : "Systems first. Code second.",
-
-  offline : [
-    "⛰️  Trail hiking",
-    "📖  Sci-fi novels",
-    "☕  Coffee runs",
-  ],
-};
+```
+╔═══════════════════════════════════════╗
+║  > IDENTITY.SYS                       ║
+╠═══════════════════════════════════════╣
+║                                       ║
+║  NAME     :: Song Pitou               ║
+║  ROLE     :: IT Specialist            ║
+║             Full Stack Engineer       ║
+║  BASE     :: Phnom Penh, Cambodia     ║
+║  ALIAS    :: Pitou911                 ║
+║                                       ║
+║  BACKEND  :: Spring Boot              ║
+║             Laravel / PHP             ║
+║             Node.js / Express         ║
+║                                       ║
+║  DATA     :: MySQL  ·  MongoDB        ║
+║                                       ║
+║  FRONTEND :: React  ·  Tailwind       ║
+║             JavaScript  ·  HTML5      ║
+║                                       ║
+║  CREED    :: Systems first.           ║
+║             Code second.              ║
+║             Ship always.              ║
+║                                       ║
+╚═══════════════════════════════════════╝
 ```
 
 </td>
-<td width="45%" valign="top" align="center">
-
-<br/><br/>
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" style="border-radius:12px"/>
+<td width="48%" valign="top" align="center">
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/─────%20LinkedIn%20─────-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/song-pitou-414834216/)
-[![Email](https://img.shields.io/badge/─────%20Email%20─────-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:songpitou723@gmail.com)
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="98%"/>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/song-pitou-414834216/)&nbsp;
+[![Email](https://img.shields.io/badge/EMAIL-c0392b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:songpitou723@gmail.com)
 
 </td>
 </tr>
@@ -64,69 +65,71 @@ const engineer = {
 
 ---
 
-## `$ cat stack.config`
+## ▰▰▰ ARSENAL
 
 <div align="center">
 
-**── BACKEND ──**
+<br/>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+**[ BACKEND ]**
 
-**── DATA ──**
+![Java](https://img.shields.io/badge/JAVA-c0392b?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0a0a0a)
+![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-1a1a1a?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
+![Laravel](https://img.shields.io/badge/LARAVEL-1a1a1a?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=for-the-badge&logo=php&logoColor=777BB4)
+![Node.js](https://img.shields.io/badge/NODE.JS-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**[ DATA ]**
 
-**── FRONTEND ──**
+![MySQL](https://img.shields.io/badge/MYSQL-1a1a1a?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MONGODB-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+**[ FRONTEND ]**
 
-**── TOOLCHAIN ──**
+![React](https://img.shields.io/badge/REACT-1a1a1a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-1a1a1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/TAILWIND-1a1a1a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=E34F26)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**[ WEAPONS OF CHOICE ]**
+
+![Git](https://img.shields.io/badge/GIT-c0392b?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0a0a)
+![GitHub](https://img.shields.io/badge/GITHUB-1a1a1a?style=for-the-badge&logo=github&logoColor=ffffff)
+![IntelliJ IDEA](https://img.shields.io/badge/INTELLIJ-1a1a1a?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-1a1a1a?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/POSTMAN-1a1a1a?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 </div>
 
 ---
 
-## `$ draw architecture.ascii`
+## ▰▰▰ SYSTEM ARCHITECTURE
 
 ```
-  ╔══════════════════════════════════════════════════════════════╗
-  ║                       CLIENT LAYER                          ║
-  ║           React  ·  JavaScript  ·  Tailwind CSS             ║
-  ╚═══════════════════════════╤══════════════════════════════════╝
-                              │  HTTPS / REST / JSON
-  ╔═══════════════════════════▼══════════════════════════════════╗
-  ║                      API GATEWAY                            ║
-  ║       Spring Boot Controllers  ·  Laravel Routes            ║
-  ╚═══════════╤═══════════════════════════════╤══════════════════╝
-              │                               │
-  ╔═══════════▼═══════════╗     ╔═════════════▼════════════════╗
-  ║    SERVICE  LAYER     ║     ║      AUTH & SECURITY         ║
-  ║   Business Logic      ║     ║   JWT · Guards · Middleware  ║
-  ╚═══════════╤═══════════╝     ╚══════════════════════════════╝
-              │
-  ╔═══════════▼══════════════════════════════════════════════════╗
-  ║                       DATA LAYER                            ║
-  ║       MySQL  (relational)   ·   MongoDB  (document)         ║
-  ╚══════════════════════════════════════════════════════════════╝
+ ╔══════════════════════════════════════════════════════════════════╗
+ ║  ░░░░░░░░░░░░░░░░  CLIENT LAYER  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+ ║         React  ·  JavaScript  ·  Tailwind CSS  ·  HTML5         ║
+ ╚═══════════════════════════════╤══════════════════════════════════╝
+                                 │  ▼  HTTPS / REST
+ ╔═══════════════════════════════▼══════════════════════════════════╗
+ ║  ░░░░░░░░░░░░░░░░░░  API GATEWAY  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+ ║       Spring Boot Controllers         Laravel Route Engine       ║
+ ╚═════════════╤════════════════════════════════╤═══════════════════╝
+               │                               │
+ ╔═════════════▼═════════════╗   ╔═════════════▼═════════════════╗
+ ║   ░░  SERVICE LAYER  ░░   ║   ║   ░░  SECURITY LAYER  ░░      ║
+ ║   Business Logic Core     ║   ║   JWT  ·  Guards  ·  Tokens   ║
+ ╚═════════════╤═════════════╝   ╚═══════════════════════════════╝
+               │  ▼
+ ╔═════════════▼══════════════════════════════════════════════════╗
+ ║  ░░░░░░░░░░░░░░░░░░  DATA LAYER  ░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+ ║        MySQL  [relational]         MongoDB  [document]         ║
+ ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## `$ git log --stats`
+## ▰▰▰ COMBAT STATS
 
 <div align="center">
 
@@ -140,50 +143,57 @@ const engineer = {
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pitou911&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pitou911&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=c0392b&fire=c0392b&currStreakLabel=c0392b&sideLabels=888888&dates=555555)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## `$ ./level-up --status`
+## ▰▰▰ SKILL MATRIX
 
 <div align="center">
 
-| Skill | Level | Progress |
-|---|---|---|
-| Spring Boot · Microservices | Senior | `█████████░` 90% |
-| RESTful API Design | Senior | `█████████░` 90% |
-| Laravel · Advanced Patterns | Mid-Senior | `████████░░` 80% |
-| Clean Architecture | Mid-Senior | `████████░░` 80% |
-| System Design | Growing | `██████░░░░` 60% |
+| Module | Mastery | Status |
+|:---|:---|:---|
+| `RESTful API Design` | `█████████░` 90% | 🔴 DEPLOYED |
+| `Spring Boot · Microservices` | `█████████░` 90% | 🔴 DEPLOYED |
+| `Laravel · Advanced Patterns` | `████████░░` 80% | 🟠 ACTIVE |
+| `Clean Architecture` | `████████░░` 80% | 🟠 ACTIVE |
+| `System Design` | `██████░░░░` 60% | 🟡 TRAINING |
 
 </div>
 
 ---
 
-## `$ cat philosophy.md`
+## ▰▰▰ DOCTRINE
 
 <br/>
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   "Any fool can write code a computer understands.         │
-│    Good programmers write code humans can understand."      │
-│                                              — M. Fowler   │
-│                                                             │
-│   "First, solve the problem. Then, write the code."        │
-│                                              — J. Johnson   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   "Any fool can write code a computer understands.              │
+│    Good programmers write code humans can understand."           │
+│                                                  — M. Fowler    │
+│                                                                  │
+│   "It's not who I am underneath, but what I do that defines me" │
+│                                                  — Bruce Wayne  │
+│                                                                  │
+│   "First, solve the problem. Then, write the code."             │
+│                                                  — J. Johnson   │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
+
+</div>
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Pitou911&style=for-the-badge&color=00ff88&label=VISITORS&abbreviated=true)
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Pitou911&style=for-the-badge&color=c0392b&label=PROFILE+VIEWS&abbreviated=true&labelColor=0a0a0a)
 
 </div>
 
@@ -191,8 +201,10 @@ const engineer = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:111111,100:000000&height=100&section=footer&text=&fontColor=00ff88&stroke=00ff88&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:000000&height=120&section=footer&text=&stroke=c0392b&strokeWidth=1" width="100%"/>
 
-*built different · ships clean · thinks in systems*
+```
+[ SYSTEM OFFLINE ]  ·  built in the dark  ·  ships in silence  ·  [ END SESSION ]
+```
 
 </div>
