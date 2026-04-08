@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,100:0d0d0d&height=300&section=header&text=SONG%20PITOU&fontSize=90&fontColor=ffffff&fontAlignY=50&desc=%E2%94%80%E2%94%80%20IT%20Specialist%20%20%C2%B7%20%20Full%20Stack%20Engineer%20%20%C2%B7%20%20Phnom%20Penh%2C%20Cambodia%20%E2%94%80%E2%94%80&descAlignY=68&descSize=13&descColor=444444&stroke=ffffff&strokeWidth=1&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,100:0d0d0d&height=300&section=header&text=SONG%20PITOU&fontSize=90&fontColor=ffffff&fontAlignY=50&desc=%E2%94%80%E2%94%80%20Co-Founder%20%20%C2%B7%20%20Full%20Stack%20Engineer%20%20%C2%B7%20%20Phnom%20Penh%2C%20Cambodia%20%E2%94%80%E2%94%80&descAlignY=68&descSize=13&descColor=444444&stroke=ffffff&strokeWidth=1&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=%5BINIT%5D+Booting+Pitou911+kernel+............+%5B+OK+%5D;%5BINIT%5D+Spring+Boot+%7C+Laravel+%7C+Node.js+%7C+Next.js+..+%5B+OK+%5D;%5BINIT%5D+MySQL+%7C+PostgreSQL+%7C+MongoDB+..........+%5B+OK+%5D;%5BINIT%5D+Clean+architecture+protocol+..........+%5B+OK+%5D;%5BINIT%5D+Coffee+supply+critical+..................+%5B+OK+%5D;%5BINIT%5D+Ready+to+operate+in+darkness+.........+%5B+OK+%5D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=%5BINIT%5D+Booting+Pitou911+kernel+............+%5B+OK+%5D;%5BINIT%5D+Co-Founder+%26+Full+Stack+Engineer+......+%5B+OK+%5D;%5BINIT%5D+Spring+Boot+%7C+Laravel+%7C+Next.js+%7C+React+Native+%5B+OK+%5D;%5BINIT%5D+MySQL+%7C+PostgreSQL+%7C+MongoDB+..........+%5B+OK+%5D;%5BINIT%5D+Building+web+%26+mobile+in+the+dark+....+%5B+OK+%5D;%5BINIT%5D+Ready+to+operate+in+darkness+.........+%5B+OK+%5D)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,7 +25,7 @@
 ┃                                         ┃
 ┃  NAME      ▸  Song Pitou                ┃
 ┃  ALIAS     ▸  Pitou911                  ┃
-┃  CLASS     ▸  IT Specialist             ┃
+┃  CLASS     ▸  Co-Founder                ┃
 ┃              Full Stack Engineer        ┃
 ┃  LOCATION  ▸  Phnom Penh, Cambodia 🇰🇭  ┃
 ┃                                         ┃
@@ -36,6 +36,7 @@
 ┃              Node.js / Express          ┃
 ┃                                         ┃
 ┃  FRONTEND  ▸  Next.js / React           ┃
+┃              React Native  [ mobile ]   ┃
 ┃              Tailwind CSS               ┃
 ┃              JavaScript / HTML5         ┃
 ┃                                         ┃
@@ -86,6 +87,7 @@
 
 ![Next.js](https://img.shields.io/badge/NEXT.JS-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=000000&labelColor=111111)
 ![React](https://img.shields.io/badge/REACT-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/REACT_NATIVE-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/TAILWIND-111111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -111,10 +113,11 @@
 ## 〔 SYSTEM ARCHITECTURE 〕
 
 ```
-                         ╔═══════════════════════════════╗
-                         ║        ░  CLIENT  ░           ║
-                         ║  Next.js · React · Tailwind   ║
-                         ╚══════════════╤════════════════╝
+                         ╔══════════════════════════════════════════╗
+                         ║             ░  CLIENT  ░                ║
+                         ║  Next.js · React · Tailwind  [ web ]   ║
+                         ║  React Native               [ mobile ]  ║
+                         ╚═════════════════╤════════════════════════╝
                                         │  HTTPS / REST
           ┌─────────────────────────────▼──────────────────────────────┐
           │                      API  GATEWAY                          │
@@ -161,11 +164,12 @@
 
 ```
   RESTful API Design         ████████████████████░░  92%   DEPLOYED
-  Spring Boot Microservices  ███████████████████░░░  88%   DEPLOYED  
-  Next.js / React            ████████████████░░░░░░  78%   ACTIVE
-  Laravel Patterns           ███████████████░░░░░░░  75%   ACTIVE
-  Clean Architecture         ████████████████░░░░░░  78%   ACTIVE
+  Spring Boot Microservices  ███████████████████░░░  88%   DEPLOYED
   PostgreSQL / MySQL         ███████████████████░░░  88%   DEPLOYED
+  Next.js / React            ████████████████░░░░░░  78%   ACTIVE
+  Clean Architecture         ████████████████░░░░░░  78%   ACTIVE
+  Laravel Patterns           ███████████████░░░░░░░  75%   ACTIVE
+  React Native  [ mobile ]   ██████████████░░░░░░░░  70%   ACTIVE
   System Design              ████████████░░░░░░░░░░  60%   TRAINING
 ```
 
@@ -184,7 +188,6 @@
   │   ❝ Any fool can write code a computer understands.                 │
   │     Good programmers write code humans can understand. ❞            │
   │                                                      — M. Fowler    │
-  │                                                                     │
   │                                                                     │
   │   ❝ First, solve the problem. Then, write the code. ❞               │
   │                                                      — J. Johnson   │
