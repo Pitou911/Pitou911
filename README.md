@@ -27,7 +27,7 @@
 ┃  ALIAS     ▸  Pitou911                  ┃
 ┃  CLASS     ▸  Co-Founder                ┃
 ┃              Full Stack Engineer        ┃
-┃  LOCATION  ▸  Phnom Penh, Cambodia 🇰🇭  ┃
+┃  LOCATION  ▸  Phnom Penh, Cambodia 🇰🇭   ┃
 ┃                                         ┃
 ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
 ┃                                         ┃
@@ -114,9 +114,9 @@
 
 ```
                          ╔══════════════════════════════════════════╗
-                         ║             ░  CLIENT  ░                ║
-                         ║  Next.js · React · Tailwind  [ web ]   ║
-                         ║  React Native               [ mobile ]  ║
+                         ║             ░  CLIENT  ░                 ║
+                         ║  Next.js · React · Tailwind  [ web ]     ║
+                         ║  React Native               [ mobile ]   ║
                          ╚═════════════════╤════════════════════════╝
                                         │  HTTPS / REST
           ┌─────────────────────────────▼──────────────────────────────┐
@@ -125,8 +125,8 @@
           └──────────────┬──────────────────────────────┬──────────────┘
                          │                              │
           ┌──────────────▼──────────┐    ┌─────────────▼─────────────┐
-          │      SERVICE LAYER      │    │      SECURITY LAYER        │
-          │   Business Logic Core   │    │  JWT · Guards · Middleware │
+          │      SERVICE LAYER      │    │      SECURITY LAYER       │
+          │   Business Logic Core   │    │  JWT · Guards · Middleware│
           └──────────────┬──────────┘    └───────────────────────────┘
                          │
           ┌──────────────▼──────────────────────────────────────────┐
