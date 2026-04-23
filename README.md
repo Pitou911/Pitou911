@@ -152,7 +152,7 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pitou911&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=555555&dates=444444&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pitou911&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=555555&dates=444444&background=000000)](https://git.io/streak-stats)
 
 </div>
 
