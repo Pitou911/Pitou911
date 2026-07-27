@@ -25,9 +25,9 @@
 
 | | SYSTEM | ROLE | STACK | STATE |
 |:--|:--|:--|:--|:--|
-| `◉` | **KhmerRooms** — Cambodia-first hotel OTA [https://khmerrooms.com](https://khmerrooms.com) | Co-Founder / CTO | `Next.js` `React Native` `Laravel 12` | **BUILDING** |
+| `◉` | **KhmerRooms** — Cambodia-first hotel OTA [https://khmerrooms.com](https://khmerrooms.com) | Co-Founder / CTO | `Next.js` `React Native` `Laravel 12` | **SHIPPED** |
 | `◉` | **Government Securities Platform** — internal, MEF | Sole engineer | `Laravel 12` `MySQL` | **LIVE · INTERNAL** |
-| `◉` | **Saravoan Medical Laboratory** | Freelance build | `React 18` `Laravel 11` `FrankenPHP` | **SHIPPED** |
+| `◉` | **Saravoan Medical Laboratory** — [https://eltech.duckdns.org](https://eltech.duckdns.org/)| Freelance build | `React 18` `Laravel 11` `FrankenPHP` | **SHIPPED** |
 | `○` | **SwiftPOS** — retail point-of-sale | Solo | `Laravel 12` `Alpine.js` `Tailwind` | [`repo →`](https://github.com/Pitou911/POS-Laravel) |
 | `○` | **Immutable Audit Trail** — SHA-256 hash chain | Solo | `Laravel` `MySQL` | [`repo →`](https://github.com/Pitou911) |
 | `○` | **CareNest** — symptom → disease prediction | AI engineer, team of 4 | `Spring Boot` `Flask` `scikit-learn` | [`repo →`](https://github.com/Pitou911/CareNest-AI-Disease-Prediction-App) |
