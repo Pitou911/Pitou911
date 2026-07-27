@@ -25,8 +25,7 @@
 
 | | SYSTEM | ROLE | STACK | STATE |
 |:--|:--|:--|:--|:--|
-| `◉` | **KhmerRooms** — Cambodia-first hotel OTA | Co-Founder / CTO | `Next.js` `React Native` `Laravel 12` | **BUILDING** |
-| `◉` | **MEF Investor Portal** — [investor.mef.gov.kh](https://investor.mef.gov.kh) | Sole engineer | `React` `Vite` `Tailwind v4` `Laravel 11` | **LIVE** |
+| `◉` | **KhmerRooms** — Cambodia-first hotel OTA [https://khmerrooms.com](https://khmerrooms.com) | Co-Founder / CTO | `Next.js` `React Native` `Laravel 12` | **BUILDING** |
 | `◉` | **Government Securities Platform** — internal, MEF | Sole engineer | `Laravel 12` `MySQL` | **LIVE · INTERNAL** |
 | `◉` | **Saravoan Medical Laboratory** | Freelance build | `React 18` `Laravel 11` `FrankenPHP` | **SHIPPED** |
 | `○` | **SwiftPOS** — retail point-of-sale | Solo | `Laravel 12` `Alpine.js` `Tailwind` | [`repo →`](https://github.com/Pitou911/POS-Laravel) |
