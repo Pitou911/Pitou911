@@ -1,16 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Pitou911/Pitou911/main/assets/pixel-banner.svg" width="100%" alt="Phnom Penh at dusk, in pixels"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=840&height=40&lines=root%40pitou911%3A~%24+whoami;%3E+SOLO+IT+UNIT+%2F%2F+GOV+SECURITIES%2C+MEF;%3E+CO-FOUNDER+%2B+CTO+%2F%2F+KHMERROOMS;%3E+LARAVEL+%2F+NEXT.JS+%2F+REACT+NATIVE+%2F+SPRING+BOOT;%3E+I+SHIP+THE+SYSTEMS+A+COUNTRY+RUNS+ON.;%3E+BUILT+IN+THE+DARK.+SHIPS+IN+SILENCE.;PRESS+START+%3C%3C" alt="root@pitou911:~$ whoami" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Pitou911&style=flat-square&color=ffffff&label=OBSERVED&labelColor=000000"/>
-
-<br/><br/>
 
 <img src="./assets/px-player-card.svg" width="100%" alt="Player 1: Pitou911 — solo IT unit and co-founder/CTO, based in Phnom Penh. Current boss fight: ABA PayWay."/>
 
