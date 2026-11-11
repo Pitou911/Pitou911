@@ -3,15 +3,12 @@
 <img src="https://raw.githubusercontent.com/Pitou911/Pitou911/main/assets/pixel-banner.svg" width="100%" alt="Phnom Penh at dusk, in pixels"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=840&height=40&lines=root%40pitou911%3A~%24+whoami;%3E+SOLO+IT+UNIT+%2F%2F+GOV+SECURITIES%2C+MEF;%3E+CO-FOUNDER+%2B+CTO+%2F%2F+KHMERROOMS;%3E+LARAVEL+%C2%B7+NEXT.JS+%C2%B7+REACT+NATIVE+%C2%B7+SPRING+BOOT;%3E+I+SHIP+THE+SYSTEMS+A+COUNTRY+RUNS+ON.;%3E+BUILT+IN+THE+DARK.+SHIPS+IN+SILENCE.;%E2%96%B6+PRESS+START" alt="root@pitou911:~$ whoami" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=840&height=40&lines=root%40pitou911%3A~%24+whoami;%3E+SOLO+IT+UNIT+%2F%2F+GOV+SECURITIES%2C+MEF;%3E+CO-FOUNDER+%2B+CTO+%2F%2F+KHMERROOMS;%3E+LARAVEL+%2F+NEXT.JS+%2F+REACT+NATIVE+%2F+SPRING+BOOT;%3E+I+SHIP+THE+SYSTEMS+A+COUNTRY+RUNS+ON.;%3E+BUILT+IN+THE+DARK.+SHIPS+IN+SILENCE.;PRESS+START+%3C%3C" alt="root@pitou911:~$ whoami" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Pitou911&style=flat-square&color=ffffff&label=%E2%96%91+OBSERVED&labelColor=000000"/>
-<img src="https://img.shields.io/badge/%E2%96%91%20STATUS-OPERATIONAL-ffffff?style=flat-square&labelColor=000000"/>
-<img src="https://img.shields.io/badge/%E2%96%91%20MAP-CAMBODIA%20%F0%9F%87%B0%F0%9F%87%AD-ffffff?style=flat-square&labelColor=000000"/>
-<img src="https://img.shields.io/badge/%E2%96%91%20TONGUES-KM%20%C2%B7%20EN%20%C2%B7%20HU%20%C2%B7%20FR-ffffff?style=flat-square&labelColor=000000"/>
+<img src="https://komarev.com/ghpvc/?username=Pitou911&style=flat-square&color=ffffff&label=OBSERVED&labelColor=000000"/>
 
 <br/><br/>
 
@@ -38,43 +35,11 @@
 
 <br/>
 
-<img src="./assets/px-architecture.svg" width="100%" alt="Architecture — KhmerRooms"/>
-
-```
-   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄           ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-   █  iOS / Android   █           █       Web        █
-   █  React Native    █           █     Next.js      █
-   ▀▀▀▀▀▀▀▀▀█▀▀▀▀▀▀▀▀▀▀           ▀▀▀▀▀▀▀▀▀█▀▀▀▀▀▀▀▀▀▀
-            █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
-                            █  HTTPS · Sanctum
-                 ▄▄▄▄▄▄▄▄▄▄▄█▄▄▄▄▄▄▄▄▄▄▄▄
-                 █      LARAVEL 12      █
-                 █  bookings · rooms ·  █
-                 █ rates · availability █
-                 ▀▀▀▀▀▀▀▀▀▀▀█▀▀▀▀▀▀▀▀▀▀▀▀
-        █▄▄▄▄▄▄▄▄▄▄▄▄▄▄█▄▄▄▄█▄▄▄▄▄▄▄▄█▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
-   ▄▄▄▄▄█▄▄▄▄   ▄▄▄▄▄▄▄█▄▄▄▄▄   ▄▄▄▄▄█▄▄▄▄▄▄   ▄▄▄▄▄█▄▄▄▄▄▄
-   █  MySQL █   █ ABA PayWay█   █ Telegram █   █ Channel  █
-   █        █   █ KHQR·HMAC █   █ ops bot  █   █ manager  █
-   ▀▀▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀█▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀▀▀
-                       █
-               ▄▄▄▄▄▄▄▄█▄▄▄▄▄▄▄▄
-               █  ☠ BOSS FIGHT █   HP ▓▓▓▓▓▓▓░░░  in progress
-               ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
+<img src="./assets/px-architecture.svg" width="100%" alt="Architecture of KhmerRooms: iOS/Android (React Native) and Web (Next.js) call a Laravel 12 API over HTTPS with Sanctum. Laravel talks to MySQL, ABA PayWay (KHQR, HMAC), a Telegram ops bot and a channel manager. ABA PayWay is the current boss fight, in progress."/>
 
 <br/>
 
-<img src="./assets/px-arsenal.svg" width="100%" alt="Arsenal"/>
-
-<div align="center">
-<br/>
-
-<img src="https://skillicons.dev/icons?i=laravel,php,nextjs,react,tailwind,js,ts,mysql,postgres&theme=dark&perline=9"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,java,nodejs,mongodb,git,github,docker,figma,vscode&theme=dark&perline=9"/>
-
-</div>
+<img src="./assets/px-arsenal.svg" width="100%" alt="Arsenal: Laravel, PHP, Spring Boot, Java, Node.js; Next.js, React, React Native, Tailwind, JavaScript, TypeScript; MySQL, PostgreSQL, MongoDB; Git, GitHub, Docker, Figma, VS Code."/>
 
 <br/>
 
@@ -141,23 +106,7 @@ Away from the terminal I'm on a trail somewhere, reading science fiction, or dra
 
 <br/>
 
-<img src="./assets/px-telemetry.svg" width="100%" alt="Telemetry"/>
-
-<div align="center">
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pitou911&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&ring_color=ffffff&rank_icon=github" height="165"/>
-<img src="https://streak-stats.demolab.com?user=Pitou911&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pitou911&bg_color=00000000&color=ffffff&line=ffffff&point=888888&area=true&area_color=333333&hide_border=true&custom_title=COMMIT%20TELEMETRY" width="98%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pitou911&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&langs_count=8" height="150"/>
-
-</div>
+<img src="./assets/px-telemetry.svg" width="100%" alt="Telemetry: contributions, streaks, public repos, last 30 weeks of activity and top languages."/>
 
 <br/>
 
@@ -167,13 +116,13 @@ Away from the terminal I'm on a trail somewhere, reading science fiction, or dra
 <br/>
 
 <a href="https://khmerrooms.com">
-<img src="https://img.shields.io/badge/%E2%96%B6%20KHMERROOMS-000000?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=000000"/>
+<img src="https://img.shields.io/badge/KHMERROOMS-000000?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=000000"/>
 </a>
 <a href="https://www.linkedin.com/in/song-pitou-414834216/">
-<img src="https://img.shields.io/badge/%E2%96%B6%20LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000"/>
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000"/>
 </a>
 <a href="mailto:songpitou723@gmail.com">
-<img src="https://img.shields.io/badge/%E2%96%B6%20EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=000000"/>
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=000000"/>
 </a>
 
 <br/><br/>
